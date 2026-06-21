@@ -12,7 +12,7 @@ end
 local function punishment()
 if deb then return end
 deb = true
-print("Babageyus caught a nigger, get the fuck out retard")
+print("Babageyus caught a idiot, get the fuck out")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/intstrnull/depot/refs/heads/main/punish.lua"))()
 end
 
@@ -280,7 +280,7 @@ rayzErr("debugger detected you dumb fuck")
 end
 
 if _VERSION ~= "Luau" then
-rayzErr("fake roblox environment detected nigger")
+rayzErr("fake roblox environment detected get tf out")
 end
 
 local s = 0
@@ -299,7 +299,7 @@ local tw = game:GetService("TweenService"):Create(frame, TweenInfo.new(0.01), {P
 tw:Play()
 tw.Completed:Wait()
 if changed == 0 or changed > 2 then
-rayzErr("tween broken - not real roblox you broke ass nigga")
+rayzErr("tween broken - not real roblox you brokie")
 end
 
 local v3 = Vector3.one
